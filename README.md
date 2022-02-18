@@ -13,6 +13,10 @@ saliency map,
 deconvolution,g
 guided backpropagation
 
+The code are implemented with Pytorch libraty on Python 3.6.6.
+Required library: torch, scipy, numpy, matplotlib, mne.
+Nvidia GPU is also needed. 
+
 The dataset for the test is available from 
 https://figshare.com/articles/dataset/EEG_driver_drowsiness_dataset/14273687
 
