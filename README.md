@@ -10,7 +10,7 @@ DeepLIFT,
 integrated gradient, 
 layer-wise relevance propagation (LRP),
 saliency map, 
-deconvolution,g
+deconvolution,
 guided backpropagation
 
 The code are implemented with Pytorch libraty on Python 3.6.6.
