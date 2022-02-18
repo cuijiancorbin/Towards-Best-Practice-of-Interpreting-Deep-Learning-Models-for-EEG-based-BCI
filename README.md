@@ -3,7 +3,7 @@ Understanding deep learning models is important for EEG-based brain-computer int
 
 In order to fill this research gap, we conduct the first quantitative evaluation and explore the best practice of interpreting deep learning models designed for EEG-based BCI. We design metrics and test seven well-known interpretation techniques on benchmark deep learning models. We propose a set of processing steps that allow the interpretation results to be visualized in an understandable and trusted way.
 
-In this project, we implemented 7 interpretation techniques on two benchmark deep learning models "EEGNet" and "InterpretableCNN" (DOI:10.1109/TNNLS.2022.3147208) for EEG-based BCI. The methods include:
+In the code file "Deep_Learning_Interpretability_samplefile.py", we implemented 7 interpretation techniques on two benchmark deep learning models "EEGNet" and "InterpretableCNN" (DOI:10.1109/TNNLS.2022.3147208) for EEG-based BCI. The methods include:
     
 gradient×input, 
 DeepLIFT, 
