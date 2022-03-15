@@ -28,7 +28,5 @@ If you find the codes useful, pls cite our paper.
 
 If you have met any problems, you can contact Dr. Cui Jian at cuij0006@ntu.edu.sg
 
-Known Issue: The code works with library mne v0.18，while there could be problems with later versions of mne. I will work on this problem and solve it soon.
-
-
+Known Issue: The file has been tested on library mne v0.18 and v0.19.2. It works perfectly for v0.18, while there will be some Deprecation Warnings for v0.19.2.
 
